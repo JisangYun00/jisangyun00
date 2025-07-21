@@ -7,9 +7,23 @@
 
  <br/>
  <br/>
-  
-####  :clipboard: Once I've Used 
-  
+
+## 🏁 Current Project
+
+**F1TENTH Autonomous Racing**  
+*Developing autonomous driving algorithms and real vehicle testing*
+
+<br/>  
+
+## 🏆 Recent Achievements 
+
+🏆 **2024 University Alliance Autonomous Driving Competition - Grand Prize**  
+🏆 **2025 4th International University EV Autonomous Driving Competition 1/10th Division - Grand Prize**
+ 
+<br/>  
+
+
+## 💻 Tech Stack 
  <br/>
 <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -17,12 +31,13 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white">
 <br/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
- 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
    <br/>
    <br/>
- 
+
+
 #### :pencil2: Study log
  
   <br/>
@@ -32,6 +47,7 @@
   <br/>
   <br/>
 </div>
+
 
 
 - 🔭 I’m currently studying at
