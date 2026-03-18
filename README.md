@@ -6,26 +6,28 @@
 ### Boundless Adventure in Bridging Opportunities
 
  <br/>
- 
+
 ## 🏁 Current Projects
-**F1TENTH Autonomous Racing**  
-*Developing autonomous driving algorithms and real vehicle testing*
+**A1 Challenge 2026**
+*End-to-end autonomous racing on F1-scale vehicles*
 
-**Embedded TARS**  
-*LLM-based autonomous driving robot with intelligent navigation capabilities*  
+**DDS Vehicle Interface Project**
+*Vehicle interface standardization with CARLA simulator integration*
 
-**MiRu - Automotive Software Club**  
-*Founded and leading an automotive software club focused on autonomous driving technology*
+**MIRU — Mobile Intelligent Robotics Union**
+*Founded the club; now serving as advisor after passing leadership to the next generation*
 
-<br/>  
+<br/>
 
-## 🏆 Recent Achievements 
-🏆 **2024 University Alliance Autonomous Driving Competition - Grand Prize**  
-🏆 **2025 4th International University EV Autonomous Driving Competition 1/10th Division - Grand Prize**
- 
-<br/>  
+## 🏆 Recent Achievements
+🥇 **2025 Global Innovation Festa — F1Tenth Autonomous Racing - 1st Place Overall**
+🥈 **2025 ICCAS — F1Tenth Autonomous Racing - 2nd Place Qualifying**
+🏆 **2025 International University EV Autonomous Driving Competition - Grand Prize**
+🏅 **2024 University Joint Autonomous Driving Competition - Excellence Award**
 
-## 💻 Tech Stack 
+<br/>
+
+## 💻 Tech Stack
  <br/>
 <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -41,7 +43,7 @@
 
 
 #### :pencil2: Study log
- 
+
   <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejourneyofbabo&hide=jupyternotebook,makefile&count=10&layout=compact)
@@ -52,22 +54,24 @@
 
 
 ## About Me
-- **🔭 I'm currently studying at**  
-  - Hanyang University Future Automotive Engineering
-- **🌱 I'm currently learning**  
-  - Autonomous Driving Algorithms & SLAM
+- **🎓 Integrated MS/PhD Student**
+  - AILAB (Automotive Intelligence Laboratory), Hanyang University — Planning Team (Mar. 2026~)
+- **🔭 Previously**
+  - B.S. in Automotive Engineering, Hanyang University (Feb. 2026)
+- **🌱 Research Interests**
+  - Motion Planning & End-to-End Autonomous Driving
   - Rust Programming & Embedded Systems
 - **👥 Leadership**
-  - **Founder & President of MiRu Club** *(Sep 2023 - Aug 2025)*
-  - Leading automotive software development and autonomous driving research
+  - **Founder & Advisor of MIRU** *(Mobile Intelligent Robotics Union, Sep 2023 – Present)*
+  - Founded department club, rebranded and expanded to college-wide engineering club; mentored 40+ students
 <br/><br/>
 
-## Contact 📞 
+## Contact 📞
 </a>
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:journeyofbabo@gmail.com">
+    <a href="mailto:jisangyun@hanyang.ac.kr">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-    <a href="https://www.linkedin.com/in/jisang-yun-097127271/">  
+    <a href="https://www.linkedin.com/in/jisang-yun-097127271/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
